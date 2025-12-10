@@ -7,6 +7,7 @@ steps:
         echo "Starting build process..."
         # Add your build commands here
         echo "Build process completed."
+        echo "Logging Enabled."
 
 options:
   logging: CLOUD_LOGGING_ONLY
